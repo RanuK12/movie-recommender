@@ -1,10 +1,15 @@
 # 🎬 Neural Movie Recommendation System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)
+![Made with](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![Stars](https://img.shields.io/github/stars/RanuK12/movie-recommender?style=social)
+
 ![Training History](https://github.com/RanuK12/movie-recommender/blob/main/training_history.png)
 ![Movie Embedding Space](https://github.com/RanuK12/movie-recommender/blob/main/movie_embeddings.png)
 
 A movie recommendation system built with TensorFlow that uses collaborative filtering with neural networks to provide personalized movie recommendations.
-
 ---
 
 ## 🧠 Overview
