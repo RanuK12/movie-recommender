@@ -124,3 +124,7 @@ Genres and themes naturally group, proving the model has learned useful represen
 
 - [MovieLens](https://grouplens.org/datasets/movielens/) — for the dataset  
 - [TensorFlow](https://www.tensorflow.org/) — for the deep learning framework  
+
+## Licencia
+
+MIT — © 2026 Ranuk IT Solutions | ranuk.dev
